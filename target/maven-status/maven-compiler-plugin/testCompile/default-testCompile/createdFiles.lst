@@ -2,3 +2,4 @@ business\CommandTests.class
 data\HashingIntegrityTests.class
 data\SingletonTests.class
 business\TfIdfTests.class
+presentation\PresentationTests.class

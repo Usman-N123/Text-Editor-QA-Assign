@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: business.TfIdfTests
+Test set: presentation.PresentationTests
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.010 s -- in business.TfIdfTests
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 s -- in presentation.PresentationTests
